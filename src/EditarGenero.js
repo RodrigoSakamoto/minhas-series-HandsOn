@@ -34,7 +34,7 @@ const EditarGenero = ({ match }) => {
 
         return (
         <div className='container'>
-            <h1>Editar Genêro</h1>
+            <h1>Editar Gênero</h1>
             <form>
                 <div className='form-group'>
                     <label htmlFor='name'>Nome</label>
